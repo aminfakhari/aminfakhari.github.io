@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : ""
+title                    : "Amin Fakhari"
 title_separator          : "-"
 name                     : &name "Amin Fakhari"
-description              : &description "Personal Website"
+description              : &description "Assistant Professor"
 url                      : https://aminfakhari.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aminfakhari/aminfakhari.github.io"
