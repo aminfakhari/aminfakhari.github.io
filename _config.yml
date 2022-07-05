@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Amin Fakhari"
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Amin Fakhari"
 description              : &description "Assistant Professor"
