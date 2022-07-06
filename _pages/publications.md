@@ -11,15 +11,15 @@ author_profile: true
 
 **C6**. A. Fakhari, A. Patankar, J. Xie and N. Chakraborty, "[Computing a Task-Dependent Grasp Metric Using Second-Order Cone Programs](https://ieeexplore.ieee.org/document/9636197)," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 4009-4016, doi: 10.1109/IROS51168.2021.9636197.
 
-**C5**. A. Patankar, A. Fakhari and N. Chakraborty, "Hand-Object Contact Force Synthesis for Manipulating Objects by Exploiting Environment," *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020, pp. 9182-9189, doi: 10.1109/IROS45743.2020.9341316.
+**C5**. A. Patankar, A. Fakhari and N. Chakraborty, "[Hand-Object Contact Force Synthesis for Manipulating Objects by Exploiting Environment](https://ieeexplore.ieee.org/document/9341316)," *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020, pp. 9182-9189, doi: 10.1109/IROS45743.2020.9341316.
 
-**C4**. A. Fakhari and A. Mostashfi, "LinBot - Design, Analysis, and Field Test of a Novel Power Transmission Lines Inspection Robot," *2019 7th International Conference on Robotics and Mechatronics (ICRoM)*, 2019, pp. 132-137, doi: 10.1109/ICRoM48714.2019.9071839.
+**C4**. A. Fakhari and A. Mostashfi, "[LinBot - Design, Analysis, and Field Test of a Novel Power Transmission Lines Inspection Robot](https://ieeexplore.ieee.org/document/9071839)," *2019 7th International Conference on Robotics and Mechatronics (ICRoM)*, 2019, pp. 132-137, doi: 10.1109/ICRoM48714.2019.9071839.
 
-**C3**. A. Fakhari, M. Keshmiri, M. Keshmiri, "Dynamic Modeling and Slippage Analysis in Object Manipulation by Soft Fingers," *ASME International Mechanical Engineering Congress & Exposition (IMECE)*, Montreal, Quebec, Canada, Nov. 2014.
+**C3**. A. Fakhari, M. Keshmiri, M. Keshmiri, "[Dynamic Modeling and Slippage Analysis in Object Manipulation by Soft Fingers](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2014/46476/V04AT04A056/262923)," *ASME International Mechanical Engineering Congress & Exposition (IMECE)*, Montreal, Quebec, Canada, Nov. 2014.
 
-**C2**. A. Fattah and A. Fakhari, "**Trajectory Planning of Walking with Different Step Lengths of a Seven-Link Biped Robot**," *ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE)*, Montreal, Quebec, Canada, Aug. 2010. 
+**C2**. A. Fattah and A. Fakhari, "[Trajectory Planning of Walking with Different Step Lengths of a Seven-Link Biped Robot](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2010/44106/1361/356930)," *ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE)*, Montreal, Quebec, Canada, Aug. 2010. 
 
-**C1**. A. Fattah, A. Fakhari, and S. Behbahani, "**Dynamics Modeling and Trajectory Planning of a Seven-Link Planar Biped Robot**," *17th Annual (International) Conference on Mechanical Engineering (ISME)*, Tehran, Iran, May 2009.
+**C1**. A. Fattah, A. Fakhari, and S. Behbahani, "[Dynamics Modeling and Trajectory Planning of a Seven-Link Planar Biped Robot](https://www.researchgate.net/publication/260772830_Dynamics_Modeling_and_Trajectory_Planning_of_a_Seven-Link_Planar_Biped_Robot)," *17th Annual (International) Conference on Mechanical Engineering (ISME)*, Tehran, Iran, May 2009.
 
 
 ### Journal Publications
