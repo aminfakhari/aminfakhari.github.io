@@ -5,9 +5,8 @@ permalink: /publications/
 author_profile: true
 ---
 
-\[1\] J. Xie, A. Fakhari, I. Kao, and N. Chakraborty, " **Online Estimation of Contact Parameters for Dynamic Planar Sliding Motion** ," IEEE International Conference on Intelligent Robots and Systems (IROS), 2020 (Under Review).  
 
-\[2\] A. Patankar, A. Fakhari, and N. Chakraborty, " **Hand-Object Contact Force Synthesis for Manipulating Objects by Exploiting Environment** ," International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE), 2020 (Accepted for Publication).  
+\[2\] A. Patankar, A. Fakhari, and N. Chakraborty, "Hand-Object Contact Force Synthesis for Manipulating Objects by Exploiting Environment," International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE), 2020 (Accepted for Publication).  
 
 \[3\] A. Fakhari, I. Kao, and M. Keshmiri, " **Modeling and Control of Planar Slippage in Object Manipulation Using Robotic Soft Fingers** ," ROBOMECH Journal, vol. 6, iss. 15, 2019.  
 
