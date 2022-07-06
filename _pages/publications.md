@@ -38,5 +38,5 @@ author_profile: true
 
 ### Patents
 
-**P1**. A. Mostashfi, A. Fakhari, M. Sakkak, M. Sadeghi, and M.A. Badri, Inspection Robot for High-Voltage Power Lines, IR Registration No. 81449, Tehran, Iran, Dec. 18, 2013.
+**P1**. A. Mostashfi, A. Fakhari, M. Sakkak, M. Sadeghi, and M.A. Badri, "Inspection Robot for High-Voltage Power Lines," IR Registration No. 81449, Tehran, Iran, Dec. 18, 2013.
 
