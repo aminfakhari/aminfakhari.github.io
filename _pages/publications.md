@@ -5,13 +5,25 @@ author_profile: true
 ---
 
 
-\[2\] A. Patankar, A. Fakhari, and N. Chakraborty, "Hand-Object Contact Force Synthesis for Manipulating Objects by Exploiting Environment," International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC-CIE), 2020 (Accepted for Publication).  
+### Conference Publications
 
-\[3\] A. Fakhari, I. Kao, and M. Keshmiri, " **Modeling and Control of Planar Slippage in Object Manipulation Using Robotic Soft Fingers** ," ROBOMECH Journal, vol. 6, iss. 15, 2019.  
+**C5**. A. Fakhari, A. Patankar and N. Chakraborty, "**Motion and Force Planning for Manipulating Heavy Objects by Pivoting**," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 9393-9400, doi: 10.1109/IROS51168.2021.9636103.
 
-\[4\] A. Fakhari and A. Mostashfi, " **LinBot – Design, Analysis, and Field Test of a Novel Power Transmission Lines Inspection Robot** ," 7th RSI International Conference on Robotics and Mechatronics, 2019.  
+**C4**. A. Fakhari, A. Patankar, J. Xie and N. Chakraborty, "**Computing a Task-Dependent Grasp Metric Using Second-Order Cone Programs**," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 4009-4016, doi: 10.1109/IROS51168.2021.9636197.
 
-\[5\] A. Fakhari, M. Keshmiri, I. Kao, and S. Hadian Jazi, " **Slippage Control in Soft Finger Grasping and Manipulation** ,"  _Advanced Robotics_ , vol. 30, iss. 2, pp. 97-108, 2016.
+**C3**. A. Patankar, A. Fakhari and N. Chakraborty, "**Hand-Object Contact Force Synthesis for Manipulating Objects by Exploiting Environment**," *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020, pp. 9182-9189, doi: 10.1109/IROS45743.2020.9341316.
+
+**C2**. A. Fakhari and A. Mostashfi, "**LinBot - Design, Analysis, and Field Test of a Novel Power Transmission Lines Inspection Robot**," *2019 7th International Conference on Robotics and Mechatronics (ICRoM)*, 2019, pp. 132-137, doi: 10.1109/ICRoM48714.2019.9071839.
+
+
+
+### Journal Publications
+
+
+**J4**. A. Fakhari, I. Kao, and M. Keshmiri, "**Modeling and Control of Planar Slippage in Object Manipulation Using Robotic Soft Fingers**," *ROBOMECH Journal*, vol. 6, iss. 15, 2019. 
+
+
+**J3**. A. Fakhari, M. Keshmiri, I. Kao, and S. Hadian Jazi, "**Slippage Control in Soft Finger Grasping and Manipulation**," *Advanced Robotics*, vol. 30, iss. 2, pp. 97-108, 2016.
 
 \[6\] A. Fakhari, M. Keshmiri, and I. Kao, " **Development of Realistic Pressure Distribution and Friction Limit Surface for Soft-Finger Contact Interface of Robotic Hands** ,"  _Journal of Intelligent and Robotic Systems_ , vol. 82, iss. 1, pp. 39-50, 2016.
 
