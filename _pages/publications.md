@@ -24,15 +24,15 @@ author_profile: true
 
 ### Journal Publications
 
-**J6**. A. Fakhari, I. Kao, and M. Keshmiri, "**Modeling and Control of Planar Slippage in Object Manipulation Using Robotic Soft Fingers**," *ROBOMECH Journal*, vol. 6, iss. 15, 2019. 
+**J6**. A. Fakhari, I. Kao, and M. Keshmiri, "[Modeling and Control of Planar Slippage in Object Manipulation Using Robotic Soft Fingers](https://robomechjournal.springeropen.com/articles/10.1186/s40648-019-0143-0)," *ROBOMECH Journal*, vol. 6, iss. 15, 2019. 
 
-**J5**. A. Fakhari, M. Keshmiri, I. Kao, and S. Hadian Jazi, "**Slippage Control in Soft Finger Grasping and Manipulation**," *Advanced Robotics*, vol. 30, iss. 2, pp. 97-108, 2016.
+**J5**. A. Fakhari, M. Keshmiri, I. Kao, and S. Hadian Jazi, "[Slippage Control in Soft Finger Grasping and Manipulation](https://www.tandfonline.com/doi/abs/10.1080/01691864.2015.1105149)," *Advanced Robotics*, vol. 30, iss. 2, pp. 97-108, 2016.
 
-**J4**. A. Fakhari, M. Keshmiri, and I. Kao, "**Development of Realistic Pressure Distribution and Friction Limit Surface for Soft-Finger Contact Interface of Robotic Hands**," *Journal of Intelligent and Robotic Systems*, vol. 82, iss. 1, pp. 39-50, 2016.
+**J4**. A. Fakhari, M. Keshmiri, and I. Kao, "[Development of Realistic Pressure Distribution and Friction Limit Surface for Soft-Finger Contact Interface of Robotic Hands](https://link.springer.com/article/10.1007/s10846-015-0267-2)," *Journal of Intelligent and Robotic Systems*, vol. 82, iss. 1, pp. 39-50, 2016.
 
-**J3**. A. Fakhari, M. Keshmiri, "**Slippage Dynamic Modeling in Object Grasping and Manipulation with Soft Fingers**," *Modares Mechanical Engineering*, vol. 15, no. 8, pp. 332-340, 2015.
+**J3**. A. Fakhari, M. Keshmiri, "[Slippage Dynamic Modeling in Object Grasping and Manipulation with Soft Fingers](https://mme.modares.ac.ir/article-15-5180-en.html)," *Modares Mechanical Engineering*, vol. 15, no. 8, pp. 332-340, 2015.
 
-**J2**. A. Mostashfi, A. Fakhari, and M.A. Badri, "**Simulation and Experimental Validation of a New Cable Inspection Robot for High Voltage Lines**," *Mechanical Engineering Sharif*, vol. 31-3, no. 2, pp. 25-32, 2015.
+**J2**. A. Mostashfi, A. Fakhari, and M.A. Badri, "[Simulation and Experimental Validation of a New Cable Inspection Robot for High Voltage Lines](http://sjme.journals.sharif.edu/article_6309.html?lang=en)," *Mechanical Engineering Sharif*, vol. 31-3, no. 2, pp. 25-32, 2015.
 
-**J1**. A. Mostashfi, A. Fakhari, and M.A. Badri, "**A Novel Design of Inspection Robot for High-Voltage Power Lines**," *Industrial Robot: An International Journal*, vol. 41, no. 2, pages 166–175, 2014.
+**J1**. A. Mostashfi, A. Fakhari, and M.A. Badri, "[A Novel Design of Inspection Robot for High-Voltage Power Lines](https://www.emerald.com/insight/content/doi/10.1108/IR-08-2013-386/full/html)," *Industrial Robot: An International Journal*, vol. 41, no. 2, pages 166–175, 2014.
 
