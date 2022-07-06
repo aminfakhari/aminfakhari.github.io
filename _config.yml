@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Amin Fakhari, PhD"
 title_separator          : "-"
-name                     : &name "Amin Fakhari"
+name                     : &name "Amin Fakhari, PhD"
 description              : &description "Amin Fakhari's Academic Website"
 url                      : https://aminfakhari.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "https://www.linkedin.com/in/aminfakhari/"
+  linkedin         : "aminfakhari"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
