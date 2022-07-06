@@ -36,3 +36,7 @@ author_profile: true
 
 **J1**. A. Mostashfi, A. Fakhari, and M.A. Badri, "[A Novel Design of Inspection Robot for High-Voltage Power Lines](https://www.emerald.com/insight/content/doi/10.1108/IR-08-2013-386/full/html)," *Industrial Robot: An International Journal*, vol. 41, no. 2, pages 166–175, 2014.
 
+### Patents
+
+**P1**. A. Mostashfi, A. Fakhari, M. Sakkak, M. Sadeghi, and M.A. Badri, **Inspection Robot for High-Voltage Power Lines**, IR Registration No. 81449, Tehran, Iran, Dec. 18, 2013.
+
