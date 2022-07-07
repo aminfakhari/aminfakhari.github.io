@@ -3,6 +3,7 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
 ### Stony Brook University
 
 &nbsp; \- MEC 549: Robot Dynamics and Control \| Fall 2022
@@ -14,7 +15,7 @@ author_profile: true
 &nbsp; \- MEC 260: Engineering Statics \| Fall 2021, Spring 2022, Fall 2022
 
 
-### State University of New York, Korea (SUNY Korea)
+### SUNY Korea
 
 &nbsp; \- MEC450/550: Mechatronics \| Fall 2018
 
@@ -27,3 +28,10 @@ author_profile: true
 &nbsp; \- MEC316: Mechanical Engineering Laboratory I \| Fall 2017, Fall 2018
 
 &nbsp; \- MEC101: Freshman Design Innovation \| Spring 2017, Fall 2017
+
+
+### Other Teaching Experiences
+
+&nbsp; \- ***Advanced Vibrations*** \| Jami Institute of Technology, Iran \| Fall 2016
+
+&nbsp; \- ***Dynamics*** \| Azad University of Najafabad, Iran Fall 2014 \| Fall 2016
