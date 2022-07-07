@@ -17,17 +17,17 @@ author_profile: true
 
 ### SUNY Korea
 
-&nbsp; \- MEC450/550: Mechatronics \| Fall 2018
+&nbsp; \- MEC 450/550: Mechatronics \| Fall 2018
 
-&nbsp; \- MEC440/441: Mechanical Engineering Design \| Fall 2018
+&nbsp; \- MEC 440/441: Mechanical Engineering Design \| Fall 2018
 
-&nbsp; \- MEC411: Control System Analysis and Design \| Spring 2018
+&nbsp; \- MEC 411: Control System Analysis and Design \| Spring 2018
 
-&nbsp; \- MEC317: Mechanical Engineering Laboratory II \| Spring 2018
+&nbsp; \- MEC 317: Mechanical Engineering Laboratory II \| Spring 2018
 
-&nbsp; \- MEC316: Mechanical Engineering Laboratory I \| Fall 2017, Fall 2018
+&nbsp; \- MEC 316: Mechanical Engineering Laboratory I \| Fall 2017, Fall 2018
 
-&nbsp; \- MEC101: Freshman Design Innovation \| Spring 2017, Fall 2017
+&nbsp; \- MEC 101: Freshman Design Innovation \| Spring 2017, Fall 2017
 
 
 ### Other Teaching Experiences
