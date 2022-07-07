@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 
-### Conference Publications
+## Conference Publications
 
 **C7**. A. Fakhari, A. Patankar and N. Chakraborty, "[Motion and Force Planning for Manipulating Heavy Objects by Pivoting](https://ieeexplore.ieee.org/document/9636103)," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 9393-9400, doi: 10.1109/IROS51168.2021.9636103.
 
@@ -22,7 +22,7 @@ author_profile: true
 **C1**. A. Fattah, A. Fakhari, and S. Behbahani, "[Dynamics Modeling and Trajectory Planning of a Seven-Link Planar Biped Robot](https://www.researchgate.net/publication/260772830_Dynamics_Modeling_and_Trajectory_Planning_of_a_Seven-Link_Planar_Biped_Robot)," *17th Annual (International) Conference on Mechanical Engineering (ISME)*, Tehran, Iran, May 2009.
 
 
-### Journal Publications
+## Journal Publications
 
 **J6**. A. Fakhari, I. Kao, and M. Keshmiri, "[Modeling and Control of Planar Slippage in Object Manipulation Using Robotic Soft Fingers](https://robomechjournal.springeropen.com/articles/10.1186/s40648-019-0143-0)," *ROBOMECH Journal*, vol. 6, iss. 15, 2019. 
 
