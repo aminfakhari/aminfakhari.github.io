@@ -5,7 +5,7 @@ author_profile: true
 ---
 
 ## Stony Brook University
-&nbsp; \- **MEC 549: Robot Dynamics and Control** \| Fall 2022 \
+&nbsp; \- **MEC 549: Robot Dynamics and Control** \| [Fall 2022](/teaching/mec) \
 &nbsp; \- **MEC 529: Introduction to Robotics: Theory and Applications** \| Spring 2022 \
 &nbsp; \- **MEC 560: Advanced Control Systems** \| Fall 2021 \
 &nbsp; \- **MEC 260: Engineering Statics** \| Fall 2021, Spring 2022, Fall 2022
