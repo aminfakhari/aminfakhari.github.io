@@ -1,6 +1,6 @@
 ---
-title: "MEC 549: Robot Dynamics and Control"
+title: "MEC549"
 permalink: /teaching/MEC549
-author_profile: true
+author_profile: false
 ---
 
