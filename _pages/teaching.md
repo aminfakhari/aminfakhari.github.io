@@ -21,5 +21,5 @@ author_profile: true
 
 
 ## Other Teaching Experiences
-&nbsp; \- **Advanced Vibrations** \| Jami Institute of Technology, Iran \| Fall 2016 \
-&nbsp; \- **Dynamics** \| Azad University of Najafabad, Iran Fall 2014 \| Fall 2016
+&nbsp; \- **Advanced Vibrations** \| *Jami Institute of Technology, Iran* \| Fall 2016 \
+&nbsp; \- **Dynamics** \| *Azad University of Najafabad, Iran* \| Fall 2014, Fall 2016
