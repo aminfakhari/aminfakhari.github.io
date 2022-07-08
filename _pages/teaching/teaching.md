@@ -29,14 +29,27 @@ author_profile: true
 
 
 ## SUNY Korea
+* MEC 450/550: Mechatronics **\|** Fall 2018
+* MEC 440/441: Mechanical Engineering Design **\|** Spring 2018, Fall 2018
+* MEC 411: Control System Analysis and Design **\|** Spring 2018
+* MEC 317: Mechanical Engineering Laboratory II **\|** Spring 2018
+* MEC 316: Mechanical Engineering Laboratory I **\|** Fall 2017, Fall 2018
+* MEC 101: Freshman Design Innovation **\|** Spring 2017, Fall 2017
+
+<!---
 &nbsp; • &nbsp; MEC 450/550: Mechatronics **\|** Fall 2018 \
 &nbsp; • &nbsp; MEC 440/441: Mechanical Engineering Design **\|** Spring 2018, Fall 2018 \
 &nbsp; • &nbsp; MEC 411: Control System Analysis and Design **\|** Spring 2018 \
 &nbsp; • &nbsp; MEC 317: Mechanical Engineering Laboratory II **\|** Spring 2018 \
 &nbsp; • &nbsp; MEC 316: Mechanical Engineering Laboratory I **\|** Fall 2017, Fall 2018 \
 &nbsp; • &nbsp; MEC 101: Freshman Design Innovation **\|** Spring 2017, Fall 2017
-
+-->
 
 ## Other Teaching Experiences
+* Advanced Vibrations **\|** Jami Institute of Technology, Iran **\|** Fall 2016
+* Dynamics **\|** Azad University of Najafabad, Iran **\|** Fall 2014, Fall 2016
+
+<!---
 &nbsp; • &nbsp; Advanced Vibrations **\|** Jami Institute of Technology, Iran **\|** Fall 2016 \
 &nbsp; • &nbsp; Dynamics **\|** Azad University of Najafabad, Iran **\|** Fall 2014, Fall 2016
+-->
