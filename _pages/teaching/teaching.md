@@ -18,6 +18,7 @@ author_profile: true
 &nbsp; • &nbsp; [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Fall 2021, Spring 2022, Fall 2022 \
 -->
 
+<style>
 ul.frames {
   font-size: 0;
 }
@@ -25,6 +26,7 @@ ul.frames li {
   font-size: 14px; font-size:1.4rem;
   display: inline;
 }
+</style>
 	
 <ul>
   <li>MEC 549: Robot Dynamics and Control <b>|</b> Fall 2022</li>
