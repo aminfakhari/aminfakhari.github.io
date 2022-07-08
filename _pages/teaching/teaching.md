@@ -5,29 +5,6 @@ author_profile: true
 ---
 
 ## Stony Brook University
-&nbsp; • &nbsp; MEC 549: Robot Dynamics and Control **\|** Fall 2022 \
-&nbsp; • &nbsp; MEC 529: Introduction to Robotics **\|** Spring 2022 \
-&nbsp; • &nbsp; MEC 560: Advanced Control Systems **\|** Fall 2021 \
-&nbsp; • &nbsp; MEC 260: Engineering Statics **\|** Fall 2021, Spring 2022, Fall 2022 \
-&nbsp; • &nbsp; MEC 440/441: Mechanical Engineering Design (Advisor) **\|** Fall 2021, Spring 2022
-
-<!---
-&nbsp; • &nbsp; [MEC 549: Robot Dynamics and Control](/teaching/MEC549) **\|** Fall 2022 \
-&nbsp; • &nbsp; [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** Spring 2022 \
-&nbsp; • &nbsp; [MEC 560: Advanced Control Systems](/teaching/MEC560) **\|** Fall 2021 \
-&nbsp; • &nbsp; [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Fall 2021, Spring 2022, Fall 2022 \
--->
-
-<style>
-ul.frames {
-  font-size: 0;
-}
-ul.frames li {
-  font-size: 14px; font-size:1.4rem;
-  display: inline;
-}
-</style>
-	
 <ul>
   <li>MEC 549: Robot Dynamics and Control <b>|</b> Fall 2022</li>
   <li>MEC 529: Introduction to Robotics <b>|</b> Spring 2022</li>
@@ -35,6 +12,22 @@ ul.frames li {
   <li>MEC 260: Engineering Statics <b>|</b> Fall 2021, Spring 2022, Fall 2022</li>
   <li>MEC 440/441: Mechanical Engineering Design (Advisor) <b>|</b> Fall 2021, Spring 2022</li>
 </ul>
+
+<!---
+&nbsp; • &nbsp; MEC 549: Robot Dynamics and Control **\|** Fall 2022 \
+&nbsp; • &nbsp; MEC 529: Introduction to Robotics **\|** Spring 2022 \
+&nbsp; • &nbsp; MEC 560: Advanced Control Systems **\|** Fall 2021 \
+&nbsp; • &nbsp; MEC 260: Engineering Statics **\|** Fall 2021, Spring 2022, Fall 2022 \
+&nbsp; • &nbsp; MEC 440/441: Mechanical Engineering Design (Advisor) **\|** Fall 2021, Spring 2022
+-->
+
+
+<!---
+&nbsp; • &nbsp; [MEC 549: Robot Dynamics and Control](/teaching/MEC549) **\|** Fall 2022 \
+&nbsp; • &nbsp; [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** Spring 2022 \
+&nbsp; • &nbsp; [MEC 560: Advanced Control Systems](/teaching/MEC560) **\|** Fall 2021 \
+&nbsp; • &nbsp; [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Fall 2021, Spring 2022, Fall 2022 \
+-->
 
 
 ## SUNY Korea
