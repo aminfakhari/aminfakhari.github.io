@@ -5,26 +5,11 @@ author_profile: true
 ---
 
 ## Stony Brook University
-<ul>
-  <li>MEC 549: Robot Dynamics and Control <b>|</b> Fall 2022</li>
-  <li>MEC 529: Introduction to Robotics <b>|</b> Spring 2022</li>
-  <li>MEC 560: Advanced Control Systems <b>|</b> Fall 2021</li>
-  <li>MEC 260: Engineering Statics <b>|</b> Fall 2021, Spring 2022, Fall 2022</li>
-  <li>MEC 440/441: Mechanical Engineering Design (Advisor) <b>|</b> Fall 2021, Spring 2022</li>
-</ul>
-
-* one
-* two
-* three
-
-
-
-* one
-
-* two
-
-* three
-
+* MEC 549: Robot Dynamics and Control **\|** Fall 2022
+* MEC 529: Introduction to Robotics **\|** Spring 2022
+* MEC 560: Advanced Control Systems **\|** Fall 2021
+* MEC 260: Engineering Statics **\|** Fall 2021, Spring 2022, Fall 2022
+* MEC 440/441: Mechanical Engineering Design (Advisor) **\|** Fall 2021, Spring 2022
 
 <!---
 &nbsp; • &nbsp; MEC 549: Robot Dynamics and Control **\|** Fall 2022 \
