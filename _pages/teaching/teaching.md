@@ -13,6 +13,19 @@ author_profile: true
   <li>MEC 440/441: Mechanical Engineering Design (Advisor) <b>|</b> Fall 2021, Spring 2022</li>
 </ul>
 
+* one
+* two
+* three
+
+
+
+* one
+
+* two
+
+* three
+
+
 <!---
 &nbsp; • &nbsp; MEC 549: Robot Dynamics and Control **\|** Fall 2022 \
 &nbsp; • &nbsp; MEC 529: Introduction to Robotics **\|** Spring 2022 \
