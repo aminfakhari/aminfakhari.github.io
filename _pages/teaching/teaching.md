@@ -18,6 +18,15 @@ author_profile: true
 &nbsp; • &nbsp; [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Fall 2021, Spring 2022, Fall 2022 \
 -->
 
+<ol>
+  <li>MEC 549: Robot Dynamics and Control **\|** Fall 2022</li>
+  <li>MEC 529: Introduction to Robotics **\|** Spring 2022</li>
+  <li>MEC 560: Advanced Control Systems **\|** Fall 2021</li>
+  <li>MEC 260: Engineering Statics **\|** Fall 2021, Spring 2022, Fall 2022</li>
+  <li>MEC 440/441: Mechanical Engineering Design (Advisor) **\|** Fall 2021, Spring 2022</li>
+</ol>
+
+
 ## SUNY Korea
 &nbsp; • &nbsp; MEC 450/550: Mechatronics **\|** Fall 2018 \
 &nbsp; • &nbsp; MEC 440/441: Mechanical Engineering Design **\|** Spring 2018, Fall 2018 \
