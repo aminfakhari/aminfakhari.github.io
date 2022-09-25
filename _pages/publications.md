@@ -24,6 +24,10 @@ author_profile: true
 
 ## Journal Publications
 
+**J8**. G. He, A. Fakhari, F. Khan, I. Kao, "[Propagation of Error and Uncertainty in a Computer Assisted Orthopedic Surgical System]," *IEEE Transactions on Instrumentation & Measurement*, (Under Review), 2022.
+
+**J7**. G. He, A. Fakhari, F. Khan, I. Kao, "[Analysis of Uncertainty and Error for Real-Time Tracking of 2D Marker Using Camera with Experimental Study]," *Journal of Verification, Validation and Uncertainty Quantification*, (Under Review), 2022.
+
 **J6**. A. Fakhari, I. Kao, and M. Keshmiri, "[Modeling and Control of Planar Slippage in Object Manipulation Using Robotic Soft Fingers](https://robomechjournal.springeropen.com/articles/10.1186/s40648-019-0143-0)," *ROBOMECH Journal*, vol. 6, iss. 15, 2019. 
 
 **J5**. A. Fakhari, M. Keshmiri, I. Kao, and S. Hadian Jazi, "[Slippage Control in Soft Finger Grasping and Manipulation](https://www.tandfonline.com/doi/abs/10.1080/01691864.2015.1105149)," *Advanced Robotics*, vol. 30, iss. 2, pp. 97-108, 2016.
