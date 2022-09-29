@@ -6,7 +6,7 @@ author_profile: true
 
 ## Stony Brook University
 * MEC 549: Robot Dynamics and Control **\|** [Fall 2022](https://aminfakhari.github.io/_pages/teaching/MEC549/MEC549_Syllabus_Fall2022.pdf)
-* MEC 529: Introduction to Robotics **\|** [Spring 2022](https://aminfakhari.github.io/_pages/teaching/MEC529/MEC529_Syllabus_Spring2022.pdf)
+* [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** [Spring 2022](https://aminfakhari.github.io/_pages/teaching/MEC529/MEC529_Syllabus_Spring2022.pdf)
 * MEC 560: Advanced Control Systems **\|** [Fall 2021](https://aminfakhari.github.io/_pages/teaching/MEC560/MEC560_Syllabus_Fall2021.pdf)
 * MEC 260: Engineering Statics **\|** [Fall 2022](https://aminfakhari.github.io/_pages/teaching/MEC260/MEC260_Syllabus_Fall2022.pdf), Spring 2022, Fall 2021
 * MEC 440/441: Mechanical Engineering Design (Advisor) **\|** Fall 2021, Spring 2022
