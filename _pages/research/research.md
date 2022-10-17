@@ -11,4 +11,6 @@ Manipulation of objects by exploiting their contact with the environment can enh
 <video src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ObjectGaiting.mp4" controls="controls" style="max-width: 730px;">
 </video>
 
+<!---
 ![](https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ObjectGaiting.gif)
+-->
