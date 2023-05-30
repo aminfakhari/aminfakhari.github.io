@@ -13,16 +13,7 @@ author_profile: true
 
 **Undergraduate Courses**:
 * [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Spring 2023, Fall 2022, Spring 2022, Fall 2021
-* MEC 440/441: Mechanical Engineering Design (Advisor for Senior Design Projects) **\|** Fall 2021, Spring 2022
-
-
-<!--
-&nbsp; • &nbsp; [MEC 549: Robot Dynamics and Control](/teaching/MEC549) **\|** Fall 2022 \
-&nbsp; • &nbsp; [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** Spring 2022 \
-&nbsp; • &nbsp; [MEC 560: Advanced Control Systems](/teaching/MEC560) **\|** Fall 2021 \
-&nbsp; • &nbsp; [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Fall 2021, Spring 2022, Fall 2022 \
--->
-
+* MEC 440/441: Mechanical Engineering Design (Advisor) **\|** Fall 2021, Spring 2022
 
 ## SUNY Korea
 * MEC 450/550: Mechatronics **\|** Fall 2018
@@ -31,15 +22,6 @@ author_profile: true
 * MEC 317: Mechanical Engineering Laboratory II **\|** Spring 2018
 * MEC 316: Mechanical Engineering Laboratory I **\|** Fall 2017, Fall 2018
 * MEC 101: Freshman Design Innovation **\|** Spring 2017, Fall 2017
-
-<!---
-&nbsp; • &nbsp; MEC 450/550: Mechatronics **\|** Fall 2018 \
-&nbsp; • &nbsp; MEC 440/441: Mechanical Engineering Design **\|** Spring 2018, Fall 2018 \
-&nbsp; • &nbsp; MEC 411: Control System Analysis and Design **\|** Spring 2018 \
-&nbsp; • &nbsp; MEC 317: Mechanical Engineering Laboratory II **\|** Spring 2018 \
-&nbsp; • &nbsp; MEC 316: Mechanical Engineering Laboratory I **\|** Fall 2017, Fall 2018 \
-&nbsp; • &nbsp; MEC 101: Freshman Design Innovation **\|** Spring 2017, Fall 2017
--->
 
 ## Other Teaching Experiences
 * Advanced Vibrations **\|** Jami Institute of Technology, Iran **\|** Fall 2016
