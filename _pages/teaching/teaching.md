@@ -6,7 +6,7 @@ author_profile: true
 
 ## Stony Brook University
 **Graduate Courses**:
-* MEC 529: Introduction to Robotics **\|** [Spring 2023](https://aminfakhari.github.io/_pages/teaching/MEC529/MEC529_Syllabus_Spring2023.pdf)
+* [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** [Spring 2023](https://aminfakhari.github.io/_pages/teaching/MEC529/MEC529_Syllabus_Spring2023.pdf)
 * MEC 510: Object-Oriented Programming for Scientists and Engineers **\|** [Spring 2023](https://aminfakhari.github.io/_pages/teaching/MEC510/MEC510_Syllabus_Spring2023.pdf)
 * MEC 549: Robot Dynamics and Control **\|** [Fall 2022](https://aminfakhari.github.io/_pages/teaching/MEC549/MEC549_Syllabus_Fall2022.pdf)
 * MEC 560: Advanced Control Systems **\|** [Fall 2021](https://aminfakhari.github.io/_pages/teaching/MEC560/MEC560_Syllabus_Fall2021.pdf)
@@ -17,7 +17,8 @@ author_profile: true
 
 <!--
 * [MEC 549: Robot Dynamics and Control](/teaching/MEC549) **\|** [Fall 2022](https://aminfakhari.github.io/_pages/teaching/MEC549/MEC549_Syllabus_Fall2022.pdf)
-* [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** [Spring 2022](https://aminfakhari.github.io/_pages/teaching/MEC529/MEC529_Syllabus_Spring2022.pdf)
+* [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** [Spring 2023](https://aminfakhari.github.io/_pages/teaching/MEC529/MEC529_Syllabus_Spring2023.pdf)
+* MEC 529: Introduction to Robotics **\|** [Spring 2023](https://aminfakhari.github.io/_pages/teaching/MEC529/MEC529_Syllabus_Spring2023.pdf)
 -->
 
 <!--
