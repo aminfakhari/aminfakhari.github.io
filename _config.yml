@@ -85,9 +85,10 @@ author:
   bio              : "Assistant Professor of Practice,<br/> Mechanical Engineering,<br/> Stony Brook University"
   location         : "Stony Brook, New York"
   employer         : 
+  Official_profile : "https://me.stonybrook.edu/people/faculty/Fakhari_Amin.php"
+  email            :  "amin.fakhari@stonybrook.edu"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=L4Sp9qAAAAAJ"
-  email            :  "amin.fakhari@stonybrook.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -116,7 +117,6 @@ author:
   youtube          :
   wikipedia        :
   dblp             :
-  Official_profile : "https://me.stonybrook.edu/people/faculty/Fakhari_Amin.php"
   
 
 
