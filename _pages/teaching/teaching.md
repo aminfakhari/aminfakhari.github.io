@@ -7,7 +7,7 @@ author_profile: true
 ## Stony Brook University
 **Graduate Courses**:
 * [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** Spring 2023, Spring 2022
-* MEC 510: Object-Oriented Programming for Scientists and Engineers **\|** [Spring 2023](https://aminfakhari.github.io/_pages/teaching/MEC510/MEC510_Syllabus_Spring2023.pdf)
+* [MEC 510: Object-Oriented Programming for Scientists and Engineers](/teaching/MEC510) **\|** Spring 2023
 * [MEC 549: Robot Dynamics and Control](/teaching/MEC549) **\|** Fall 2022
 * [MEC 560: Advanced Control Systems](https://aminfakhari.github.io/_pages/teaching/MEC560/MEC560_Syllabus_Fall2021.pdf) **\|** Fall 2021
 
