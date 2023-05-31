@@ -10,9 +10,14 @@ Most robotic hands and grippers rely on actuators with large gearboxes and force
 
 **MS Student: [Jay Best](https://www.linkedin.com/in/jay--best/)**
 
-<table style="height:auto; width:auto; border-collapse: collapse; border: none;">
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0" border="0" bgcolor="#000000">
   <tr>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/FormClosure.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Smack_and_Snatch_Egg.gif" width=auto height=auto alt=""></td>
+	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Picking_up_a_Coin.gif" width=auto height=auto alt=""></td>
+  </tr>
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/In-Hand_Manipulation_RubberBall.gif" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Smack_and_Snatch_Egg.gif" width=auto height=auto alt=""></td>
 	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Picking_up_a_Coin.gif" width=auto height=auto alt=""></td>
   </tr>
