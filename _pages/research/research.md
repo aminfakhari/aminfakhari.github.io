@@ -10,7 +10,7 @@ Most robotic hands and grippers rely on actuators with large gearboxes and force
 
 **MS Student: [Jay Best](https://www.linkedin.com/in/jay--best/)**
 
-<table style="height:auto; width:auto;">
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/FormClosure.gif" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Smack_and_Snatch_Egg.gif" width=auto height=auto alt=""></td>
@@ -33,5 +33,6 @@ Manipulation of objects by exploiting their contact with the environment can enh
 ![](https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ObjectGaiting.gif)
 --->
 
+**Publications:**
 - A. Fakhari, A. Patankar and N. Chakraborty, "[Motion and Force Planning for Manipulating Heavy Objects by Pivoting](https://ieeexplore.ieee.org/document/9636103)," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 9393-9400, doi: 10.1109/IROS51168.2021.9636103.
 - A. Patankar, A. Fakhari and N. Chakraborty, "[Hand-Object Contact Force Synthesis for Manipulating Objects by Exploiting Environment](https://ieeexplore.ieee.org/document/9341316)," *2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2020, pp. 9182-9189, doi: 10.1109/IROS45743.2020.9341316.
