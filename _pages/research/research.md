@@ -46,6 +46,13 @@ Manipulation of objects by exploiting their contact with the environment can enh
   </tr>
 </table>
 
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Panda_Cuboid.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Panda_Cylinder.gif" width=auto height=auto alt=""></td>
+  </tr>
+</table>
+
 <!---
 bgcolor="#000000" 
 bordercolor="#ffffff" 
