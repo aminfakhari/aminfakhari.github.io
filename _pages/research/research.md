@@ -17,14 +17,14 @@ Most robotic hands and grippers rely on actuators with large gearboxes and force
 	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Picking_up_a_Coin.gif" width=auto height=auto alt=""></td>
   </tr>
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/FormClosure.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Grasp_in_Response_to_Disturbance.gif" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/In-Hand_Manipulation_Pushing.gif" width=auto height=auto alt=""></td>
-	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Grasping_Card.gif" width=auto height=auto alt=""></td>
+	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Grasping_Egg.gif" width=auto height=auto alt=""></td>
   </tr>
   <tr>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Opening_WaterBottle.gif" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Grasp_in_Response_to_Disturbance.gif" width=auto height=auto alt=""></td>
-	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Grasping_Egg.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/FormClosure.gif" width=auto height=auto alt=""></td>
+	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Grasping_Card.gif" width=auto height=auto alt=""></td>
   </tr>
 </table>
 
