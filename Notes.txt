@@ -1,0 +1,2 @@
+Header menu: _data > navigation
+Author Info: _config.yml
