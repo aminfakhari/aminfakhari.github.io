@@ -34,7 +34,7 @@ Manipulation of objects by exploiting their contact with the environment can enh
 **Collaborators: [Dr. Nilanjan Chakraborty](https://me.stonybrook.edu/people/faculty/Chakraborty_Nilanjan.php), [Aditya Patankar](https://www.linkedin.com/in/adityapatankar/)**
 
 
-<img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ObjectGaiting.gif" width=auto height=auto alt="">
+<img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Manipulation_Pivoting.gif" width=auto height=auto alt="">
 
 <!---
 bgcolor="#000000" 
