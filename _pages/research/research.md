@@ -24,7 +24,7 @@ Most robotic hands and grippers rely on actuators with large gearboxes and force
   <tr>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Opening_WaterBottle.gif" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Grasp_in_Response_to_Disturbance.gif" width=auto height=auto alt=""></td>
-	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Grasping_Card.gif" width=auto height=auto alt=""></td>
+	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Grasping_Egg.gif" width=auto height=auto alt=""></td>
   </tr>
 </table>
 
