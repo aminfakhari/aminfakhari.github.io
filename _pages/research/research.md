@@ -37,10 +37,8 @@ Manipulation of objects by exploiting their contact with the environment can enh
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td rowspan="2"><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Manipulation_Pivoting.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Manipulation_Pivoting.gif" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Cuboid.gif" width=auto height=auto alt=""></td>
-  </tr>
-  <tr>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Cylinder.gif" width=auto height=auto alt=""></td>
   </tr>
 </table>
