@@ -73,7 +73,7 @@ Most of the essential parameters of human walking can be captured with a seven-l
 
 <table cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Biped/Biped_Robot.gif" width=5em height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Biped/Biped_Robot.gif" width=50% height=auto alt=""></td>
   </tr>
 </table>
 
