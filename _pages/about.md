@@ -19,5 +19,12 @@ My research interests are in robotics, dynamical systems, control systems, and m
 <hr>
 
 **Recent News:**
-- **May 19, 2023**: Jay Best received the Graduate Research Excellence Award from the Department of Mechanical Engineering for exceptionally strong dissertation. Congratulations!
+- **May 19, 2023**: Jay Best received the Graduate Research Excellence Award from the Department of Mechanical Engineering for exceptionally strong thesis. Congratulations!
 - **May 2, 2023**: Jay Best successfully defended his MS thesis. Congratulations!
+
+
+<h2>Recent News:</h2>
+<ul style="margin-left: 0; padding-left: 0; list-style-type: disc;">
+  <li><b>May 19, 2023</b>: Jay Best received the Graduate Research Excellence Award from the Department of Mechanical Engineering for exceptionally strong thesis. Congratulations!</li>
+  <li><b>May 2, 2023</b>: Jay Best successfully defended his MS thesis. Congratulations!</li>
+</ul>
