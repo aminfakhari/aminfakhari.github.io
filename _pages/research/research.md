@@ -73,17 +73,16 @@ Most of the essential parameters of human walking can be captured with a seven-l
 
 <center>
 <img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Biped/Biped_Robot.gif" style="width: 30%; height: 30%;" alt="">
-<\center>
+</center>
+
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Biped/Biped_Robot.gif" style="width: 30%; height: 30%;" alt=""></p>
+
 
 **Publications:**
 - A. Fattah and A. Fakhari, "[Trajectory Planning of Walking with Different Step Lengths of a Seven-Link Biped Robot](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2010/44106/1361/356930)," *ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE)*, Montreal, Quebec, Canada, Aug. 2010. 
 - A. Fattah, A. Fakhari, and S. Behbahani, "[Dynamics Modeling and Trajectory Planning of a Seven-Link Planar Biped Robot](https://www.researchgate.net/publication/260772830_Dynamics_Modeling_and_Trajectory_Planning_of_a_Seven-Link_Planar_Biped_Robot)," *17th Annual (International) Conference on Mechanical Engineering (ISME)*, Tehran, Iran, May 2009.
 
 <hr>
-
-<hr width="50%" color="green" size="2em" />
-
-<hr size="10em" />
 
 <!---
 bgcolor="#000000" 
