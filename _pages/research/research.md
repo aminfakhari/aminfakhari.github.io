@@ -83,7 +83,21 @@ Various models have been presented for pressure distribution in the contact inte
 
 <hr>
 
+## Dynamic Modeling and Control of Planar Slippage in Object Grasping and Manipulation Using Robotic Soft Fingers
+Slippage occurrence has an important role in stable and robust object grasping and manipulation. However, in the majority of prior research on soft finger manipulation, the presence of the slippage between fingers and objects has been ignored. In this research, a general method for dynamic modeling of planar slippage was presented. In this method, different states of planar contact were replaced with a second-order differential equation. This kind of formulation of the system dynamics facilitates the design of model-based controllers to cancel the undesired slippage that occurs between the soft tip and object during the manipulation.
 
+**Collaborators: [Dr. Imin Kao](https://me.stonybrook.edu/people/faculty/Kao_Imin.php), [Dr. Mehdi Keshmiri](https://keshmiri.iut.ac.ir/)**
+
+**Publications:**
+- A. Fakhari, I. Kao, and M. Keshmiri, "[Modeling and Control of Planar Slippage in Object Manipulation Using Robotic Soft Fingers](https://robomechjournal.springeropen.com/articles/10.1186/s40648-019-0143-0)," *ROBOMECH Journal*, vol. 6, iss. 15, 2019.
+
+- A. Fakhari, M. Keshmiri, I. Kao, and S. Hadian Jazi, "[Slippage Control in Soft Finger Grasping and Manipulation](https://www.tandfonline.com/doi/abs/10.1080/01691864.2015.1105149)," *Advanced Robotics*, vol. 30, iss. 2, pp. 97-108, 2016.
+
+- A. Fakhari, M. Keshmiri, "[Slippage Dynamic Modeling in Object Grasping and Manipulation with Soft Fingers](https://mme.modares.ac.ir/article-15-5180-en.html)," *Modares Mechanical Engineering*, vol. 15, no. 8, pp. 332-340, 2015.
+
+- A. Fakhari, M. Keshmiri, M. Keshmiri, "[Dynamic Modeling and Slippage Analysis in Object Manipulation by Soft Fingers](https://asmedigitalcollection.asme.org/IMECE/proceedings-abstract/IMECE2014/46476/V04AT04A056/262923)," *ASME International Mechanical Engineering Congress & Exposition (IMECE)*, Montreal, Quebec, Canada, Nov. 2014.
+
+<hr>
 
 
 ## Trajectory Planning of Walking with Different Step Lengths of a Seven-Link Biped Robot: ##
