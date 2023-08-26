@@ -12,6 +12,7 @@ author_profile: true
 * [MEC 560: Advanced Control Systems](https://aminfakhari.github.io/_pages/teaching/MEC560/MEC560_Syllabus_Fall2021.pdf) **\|** Fall 2021
 
 **Undergraduate Courses**:
+* [MEC 411: Control System Analysis and Design](/teaching/MEC411) **\|** Fall 2023
 * [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Spring 2023, Fall 2022, Spring 2022, Fall 2021
 * MEC 440/441: Mechanical Engineering Design (Advisor) **\|** Fall 2021, Spring 2022
 
