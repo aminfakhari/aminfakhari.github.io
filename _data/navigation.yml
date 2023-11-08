@@ -10,8 +10,8 @@ main:
   - title: "Teaching"
     url: /teaching/    
     
-  - title: "Openings"
-    url: /openings/
+#  - title: "Openings"
+#    url: /openings/
     
 #  - title: "Portfolio"
 #    url: /portfolio/
