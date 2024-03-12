@@ -26,8 +26,9 @@ author_profile: true
 
 ## Journal Publications
 
+**J9**. C. Saldarriaga, A. Fakhari, I, Kao, "[Dynamic Response of Redundant Robot Manipulators under Impedance Control with Null-Space Control by Applying Modal Analysis]," *IEEE Transactions on Robotics*, 2024, (Under Review).
 
-**J8**. G. He, A. Fakhari, F. Khan, I. Kao, "[Propagation of Error and Uncertainty in a Computer Assisted Orthopedic Surgical System]," *IEEE Transactions on Instrumentation & Measurement*, 2024, (Under Review).
+**J8**. G. He, A. Fakhari, F. Khan, I. Kao, "[Propagation of Error and Uncertainty in a Computer Assisted Orthopedic Surgical System]," *IEEE Transactions on Instrumentation & Measurement*, 2024, (Accepted).
 
 **J7**. G. He, A. Fakhari, F. Khan, I. Kao, "[Analysis of Uncertainty and Error for Real-Time Tracking of 2D Marker Using Camera with Experimental Study](https://asmedigitalcollection.asme.org/verification/article/doi/10.1115/1.4062137/1160184/Experimental-and-Computational-Study-of-Error-and)," *Journal of Verification, Validation and Uncertainty Quantification*, 2023.
 
