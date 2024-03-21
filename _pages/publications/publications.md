@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Publications
 
+**C9**. M. Boroji, V. Danesh, I. Kao, A. Fakhari, "Motion Planning for Object Manipulation by Edge-Rolling," 2024 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Under Review).
+
 **C8**. J. Best and A. Fakhari, "Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand," *The 21st International Conference on Ubiquitous Robots (UR)*, 2024, (Under Review).
 
 **C7**. A. Fakhari, A. Patankar and N. Chakraborty, "[Motion and Force Planning for Manipulating Heavy Objects by Pivoting](https://ieeexplore.ieee.org/document/9636103)," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 9393-9400, doi: 10.1109/IROS51168.2021.9636103.
@@ -28,7 +30,7 @@ author_profile: true
 
 **J9**. C. Saldarriaga, A. Fakhari, I. Kao, "Dynamic Response of Redundant Robot Manipulators under Impedance Control with Null-Space Control by Applying Modal Analysis," *IEEE Transactions on Robotics*, 2024, (Under Review).
 
-**J8**. G. He, A. Fakhari, F. Khan, I. Kao, "Propagation of Error and Uncertainty in a Computer Assisted Orthopedic Surgical System," *IEEE Transactions on Instrumentation & Measurement*, 2024, (Accepted).
+**J8**. G. He, A. Fakhari, F. Khan, I. Kao, "[Propagation of Error and Uncertainty in a Computer Assisted Orthopedic Surgical System](https://ieeexplore.ieee.org/document/10474299)," *IEEE Transactions on Instrumentation & Measurement*, 2024, (Accepted).
 
 **J7**. G. He, A. Fakhari, F. Khan, I. Kao, "[Analysis of Uncertainty and Error for Real-Time Tracking of 2D Marker Using Camera with Experimental Study](https://asmedigitalcollection.asme.org/verification/article/doi/10.1115/1.4062137/1160184/Experimental-and-Computational-Study-of-Error-and)," *Journal of Verification, Validation and Uncertainty Quantification*, 2023.
 
