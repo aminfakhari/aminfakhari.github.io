@@ -30,9 +30,9 @@ author_profile: true
 
 **J9**. C. Saldarriaga, A. Fakhari, I. Kao, "Dynamic Response of Redundant Robot Manipulators under Impedance Control with Null-Space Control by Applying Modal Analysis," *IEEE Transactions on Robotics*, 2024, (Under Review).
 
-**J8**. G. He, A. Fakhari, F. Khan, I. Kao, "[Propagation of Error and Uncertainty in a Computer Assisted Orthopedic Surgical System](https://ieeexplore.ieee.org/document/10474299)," *IEEE Transactions on Instrumentation & Measurement*, 2024.
+**J8**. G. He, A. Fakhari, F. Khan, I. Kao, "[Propagation of Error and Uncertainty in a Computer Assisted Orthopedic Surgical System](https://ieeexplore.ieee.org/document/10474299)," *IEEE Transactions on Instrumentation & Measurement*, vol. 73, pp. 1-15, 2024.
 
-**J7**. G. He, A. Fakhari, F. Khan, I. Kao, "[Analysis of Uncertainty and Error for Real-Time Tracking of 2D Marker Using Camera with Experimental Study](https://asmedigitalcollection.asme.org/verification/article/doi/10.1115/1.4062137/1160184/Experimental-and-Computational-Study-of-Error-and)," *Journal of Verification, Validation and Uncertainty Quantification*, 2023.
+**J7**. G. He, A. Fakhari, F. Khan, I. Kao, "[Analysis of Uncertainty and Error for Real-Time Tracking of 2D Marker Using Camera with Experimental Study](https://asmedigitalcollection.asme.org/verification/article/doi/10.1115/1.4062137/1160184/Experimental-and-Computational-Study-of-Error-and)," *Journal of Verification, Validation and Uncertainty Quantification*, vol. 8, iss. 2, 2023.
 
 **J6**. A. Fakhari, I. Kao, and M. Keshmiri, "[Modeling and Control of Planar Slippage in Object Manipulation Using Robotic Soft Fingers](https://robomechjournal.springeropen.com/articles/10.1186/s40648-019-0143-0)," *ROBOMECH Journal*, vol. 6, iss. 15, 2019.
 
