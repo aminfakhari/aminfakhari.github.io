@@ -13,6 +13,9 @@ author_profile: true
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling.png" width=480 height=360 alt=""></td>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_BackAndForthPath.gif" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_FullCirclePath.gif" width=auto height=auto alt=""></td>
+	<!---
+	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_HalfCirclePath.gif" width=auto height=auto alt=""></td>
+	--->
   </tr>
 </table>
 
