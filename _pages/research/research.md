@@ -10,11 +10,14 @@ author_profile: true
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_HalfCirclePath.gif" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_HalfCirclePath.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_BackAndForthPath.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_FullCirclePath.gif" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_HalfCirclePath.gif" width=auto height=auto alt=""></td>
   </tr>
 </table>
+
+**Publication:**
+- M. Boroji, V. Danesh, I. Kao, A. Fakhari, "Motion Planning for Object Manipulation by Edge-Rolling," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Under Review).
 
 <hr>
 
@@ -44,6 +47,9 @@ Most robotic hands and grippers rely on actuators with large gearboxes and force
 
 **Thesis:**
 - Jay Best, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand](https://arxiv.org/pdf/2308.10409.pdf)," *Department of Mechanical Engineering, Stony Brook University*, 2023.
+
+**Publication:**
+- J. Best and A. Fakhari, "Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand," *The 21st International Conference on Ubiquitous Robots (UR)*, 2024 (Under Review).
 
 <hr>
 
