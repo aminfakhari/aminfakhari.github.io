@@ -4,6 +4,20 @@ permalink: /research/
 author_profile: true
 ---
 
+## Motion Planning for Object Manipulation by Edge-Rolling
+
+**Collaborators: [Maede Boroji](https://www.linkedin.com/in/maede-boroji-558ba51a5/), [Vahid Danesh](https://www.linkedin.com/in/vahid-danesh/)**
+
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_HalfCirclePath.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_HalfCirclePath.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_HalfCirclePath.gif" width=auto height=auto alt=""></td>
+  </tr>
+</table>
+
+<hr>
+
 ## Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand
 
 Most robotic hands and grippers rely on actuators with large gearboxes and force sensors for controlling gripping force. However, this might not be ideal for tasks which require the robot to interact with an unstructured and/or unknown environment. We proposed a novel quasi-direct-drive (QDD) two-fingered robotic hand with variable impedance control in the joint space and Cartesian space. Variable impedance control allows the hand to perform dexterous manipulation tasks while being safe during human-robot interaction. The quasi-direct-drive actuators enable the fingers to handle contact with unstructured environment without the need for complicated tactile or force sensors. The hand demonstrates grasping with force-closure and form-closure, stable grasps in response to disturbances, tasks exploiting contact with the environment, simple in-hand manipulation, and a light touch for handling fragile objects.
