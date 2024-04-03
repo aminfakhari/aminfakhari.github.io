@@ -17,7 +17,7 @@ author_profile: true
 </table>
 
 **Publication:**
-- M. Boroji, V. Danesh, I. Kao, A. Fakhari, "Motion Planning for Object Manipulation by Edge-Rolling," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Under Review).
+- M. Boroji, V. Danesh, I. Kao, A. Fakhari, "Motion Planning for Object Manipulation by Edge-Rolling," *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Under Review).
 
 <hr>
 
