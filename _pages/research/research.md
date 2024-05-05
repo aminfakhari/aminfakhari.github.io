@@ -128,7 +128,7 @@ In this research, design, analysis, and field test of an innovative inspection r
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/LinBot/LinBot_Idea.png" width=auto height=auto alt=""></td>
-	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/LinBot/LinBot.png" width=auto height=auto alt=""></td>
+	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/LinBot/LinBot.jpg" width=auto height=auto alt=""></td>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/LinBot/LinBotSimulation.gif" width=auto height=auto alt=""></td>
   </tr>
 </table>
