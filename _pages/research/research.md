@@ -129,9 +129,11 @@ In this research, design, analysis, and field test of an innovative inspection r
   <tr>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/LinBot/LinBot_Idea.png" width=auto height=auto alt=""></td>
 	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/LinBot/LinBot.jpg" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/LinBot/LinBotSimulation.gif" width=auto height=auto alt=""></td>
   </tr>
 </table>
+<center>
+	<img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/LinBot/LinBotSimulation.gif" style="width: 50%; height: 50%;" alt="">
+</center>
 
 **Publications:**
 - A. Fakhari and A. Mostashfi, "[LinBot - Design, Analysis, and Field Test of a Novel Power Transmission Lines Inspection Robot](https://ieeexplore.ieee.org/document/9071839)," *2019 7th International Conference on Robotics and Mechatronics (ICRoM)*, 2019, pp. 132-137, doi: 10.1109/ICRoM48714.2019.9071839.
@@ -144,7 +146,7 @@ In this research, design, analysis, and field test of an innovative inspection r
 Most of the essential parameters of human walking can be captured with a seven-link planar biped robot. In this project, dynamics modeling and trajectory planning of a seven-link planar biped robot walking on level ground with a ditch or stairs were studied. The hip and foot trajectories were designed in Cartesian space using polynomial interpolation such that to vanish the impact effect of feet with the ground. The key parameters of the hip joint trajectory in the x-axis direction were obtained using boundaries of biped stable region during the walking to satisfy the dynamic stability of the robot. The highest position of the swing foot ankle joint in the x- and z-axis direction was optimized with two different fitness functions. A novel method for trajectory planning of walking with different step lengths, uses for online trajectory planning, was proposed. Moreover, the effectiveness of the proposed method was verified by simulation and experimental results.
 
 <center>
-<img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Biped/Biped_Robot.gif" style="width: 50%; height: 50%;" alt="">
+	<img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Biped/Biped_Robot.gif" style="width: 50%; height: 50%;" alt="">
 </center>
 
 
