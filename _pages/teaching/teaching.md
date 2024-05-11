@@ -7,15 +7,15 @@ author_profile: true
 ## Stony Brook University
 **Graduate Courses**:
 * [MEC 549: Robot Dynamics and Control](/teaching/MEC549) **\|** Spring 2024
-* [MEC 510: Object-Oriented Programming](/teaching/MEC510) **\|** Spring 2024
 * [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** Spring 2023, Spring 2022
 * [MEC 450/550: Mechatronics](/teaching/MEC450_550) **\|** Fall 2023
+* [MEC 510: Object-Oriented Programming](/teaching/MEC510) **\|** Spring 2024
 * [MEC 560: Advanced Control Systems](https://aminfakhari.github.io/_pages/teaching/MEC560/MEC560_Syllabus_Fall2021.pdf) **\|** Fall 2021
 
 **Undergraduate Courses**:
-* [MEC 220: Practical Electronics](/teaching/MEC220) **\|** Spring 2024
 * [MEC 411: Control System Analysis and Design](/teaching/MEC411) **\|** Fall 2023
 * [MEC 450/550: Mechatronics](/teaching/MEC450_550) **\|** Fall 2023
+* [MEC 220: Practical Electronics](/teaching/MEC220) **\|** Spring 2024
 * [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Spring 2023, Fall 2022, Spring 2022, Fall 2021
 * MEC 440/441: Mechanical Engineering Design (Advisor) **\|** Fall 2021, Spring 2022
 
