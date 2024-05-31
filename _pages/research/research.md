@@ -52,7 +52,7 @@ Most robotic hands and grippers rely on actuators with large gearboxes and force
 - Jay Best, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand](https://arxiv.org/pdf/2308.10409.pdf)," *Department of Mechanical Engineering, Stony Brook University*, 2023.
 
 **Publication:**
-- J. Best and A. Fakhari, "Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand," *The 21st International Conference on Ubiquitous Robots (UR)*, 2024 (Under Review).
+- J. Best and A. Fakhari, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand](https://arxiv.org/abs/2405.18730)," *The 21st International Conference on Ubiquitous Robots (UR)*, 2024 (Under Review).
 
 <hr>
 

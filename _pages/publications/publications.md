@@ -9,7 +9,7 @@ author_profile: true
 
 **C9**. M. Boroji, V. Danesh, I. Kao, A. Fakhari, "Motion Planning for Object Manipulation by Edge-Rolling," 2024 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Under Review).
 
-**C8**. J. Best and A. Fakhari, "Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand," *The 21st International Conference on Ubiquitous Robots (UR)*, 2024, (Under Review).
+**C8**. J. Best and A. Fakhari, [Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand](https://arxiv.org/abs/2405.18730), *The 21st International Conference on Ubiquitous Robots (UR)*, 2024, (Under Review).
 
 **C7**. A. Fakhari, A. Patankar and N. Chakraborty, "[Motion and Force Planning for Manipulating Heavy Objects by Pivoting](https://ieeexplore.ieee.org/document/9636103)," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 9393-9400, doi: 10.1109/IROS51168.2021.9636103.
 
