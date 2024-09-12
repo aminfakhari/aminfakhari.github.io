@@ -16,6 +16,7 @@ author_profile: true
 * [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Fall 2024
 * [MEC 411: Control System Analysis and Design](/teaching/MEC411) **\|** Fall 2023
 * [MEC 220: Practical Electronics](/teaching/MEC220) **\|** Spring 2024
+
 <!---
 * MEC 440/441: Mechanical Engineering Design (Advisor) **\|** Spring 2022
 -->
