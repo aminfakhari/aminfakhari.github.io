@@ -21,7 +21,7 @@ A common way to manipulate heavy objects is to maintain at least one point of th
 </table>
 
 **Publication:**
-- M. Boroji, V. Danesh, I. Kao, A. Fakhari, "Motion Planning for Object Manipulation by Edge-Rolling," *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Accepted for Publication).
+- M. Boroji, V. Danesh, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://arxiv.org/pdf/2410.09301)," *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Accepted for Publication).
 
 <hr>
 
