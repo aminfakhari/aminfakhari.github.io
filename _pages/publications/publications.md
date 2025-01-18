@@ -7,10 +7,13 @@ author_profile: true
 
 ## Conference Publications
 
-**C9**. M. Boroji, V. Danesh, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://arxiv.org/pdf/2410.09301)," 2024 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Accepted for Publication).
+**C9**. M. Boroji, V. Danesh, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://ieeexplore.ieee.org/document/10802581)," 2024 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Accepted for Publication).
 
+**C8**. J. Best and A. Fakhari, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand](https://arxiv.org/abs/2405.18730)," *arXiv*, 2024.
+<!---
 **C8**. J. Best and A. Fakhari, [Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand](https://arxiv.org/abs/2405.18730), *The 21st International Conference on Ubiquitous Robots (UR)*, 2024, (Under Review).
-
+--->
+	
 **C7**. A. Fakhari, A. Patankar and N. Chakraborty, "[Motion and Force Planning for Manipulating Heavy Objects by Pivoting](https://ieeexplore.ieee.org/document/9636103)," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 9393-9400, doi: 10.1109/IROS51168.2021.9636103.
 
 **C6**. A. Fakhari, A. Patankar, J. Xie and N. Chakraborty, "[Computing a Task-Dependent Grasp Metric Using Second-Order Cone Programs](https://ieeexplore.ieee.org/document/9636197)," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 4009-4016, doi: 10.1109/IROS51168.2021.9636197.

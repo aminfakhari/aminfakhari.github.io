@@ -21,7 +21,7 @@ A common way to manipulate heavy objects is to maintain at least one point of th
 </table>
 
 **Publication:**
-- M. Boroji, V. Danesh, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://arxiv.org/pdf/2410.09301)," *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024 (Accepted for Publication).
+- M. Boroji, V. Danesh, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://ieeexplore.ieee.org/document/10802581)," *2024 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024.
 
 <hr>
 
@@ -52,7 +52,7 @@ Most robotic hands and grippers rely on actuators with large gearboxes and force
 - Jay Best, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand](https://arxiv.org/pdf/2308.10409.pdf)," *Department of Mechanical Engineering, Stony Brook University*, 2023.
 
 **Publication:**
-- J. Best and A. Fakhari, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand](https://arxiv.org/abs/2405.18730)," *The 21st International Conference on Ubiquitous Robots (UR)*, 2024 (Accepted for Publication).
+- J. Best and A. Fakhari, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand](https://arxiv.org/abs/2405.18730)," *arXiv*, 2024.
 
 <hr>
 
