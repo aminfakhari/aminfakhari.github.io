@@ -5,14 +5,14 @@ author_profile: true
 ---
 ## Current Students:
 ### Masters Students
-- Martin Chan
+- Martin Chan (2025-)
 
 ### Undergraduate Students
-- Leo Lin
+- Leo Lin (2025-)
 
 ### PhD Student Collaborators:
-- Maede Boroji
-- Vahid Danesh
+- Maede Boroji (2023-)
+- Vahid Danesh (2023-)
 
 ## Alumni:
-- Jay Best
+- Jay Best (MS, May 2023)
