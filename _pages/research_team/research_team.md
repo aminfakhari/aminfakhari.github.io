@@ -3,8 +3,16 @@ title: "Research Team"
 permalink: /research_team/
 author_profile: true
 ---
+## Current Students:
+### Masters Students
+- Martin Chan
 
-## Masters Students
+### Undergraduate Students
+- Leo Lin
 
+### Others:
+- Maede Boroji
+- Vahid Danesh
 
-## Undergraduate Students
+## Alumni:
+- Jay Best
