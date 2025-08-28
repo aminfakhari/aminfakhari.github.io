@@ -10,7 +10,7 @@ author_profile: true
 ### Undergraduate Students
 - Leo Lin
 
-### Others:
+### PhD Student Collaborators:
 - Maede Boroji
 - Vahid Danesh
 
