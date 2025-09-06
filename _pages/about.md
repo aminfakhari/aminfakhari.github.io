@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an [Assistant Professor of Practice (Lecturer/Researcher)](https://me.stonybrook.edu/people/faculty/Fakhari_Amin.php) in the [Department of Mechanical Engineering](https://me.stonybrook.edu/) at [Stony Brook University](https://www.stonybrook.edu/). Previously, I was an Assistant Professor in the [Department of Mechanical Engineering](https://me.sunykorea.ac.kr/me/) at [SUNY Korea](https://www.sunykorea.ac.kr/en/).
+I am an <a href="https://me.stonybrook.edu/people/faculty/Fakhari_Amin.php" target="_blank">Assistant Professor of Practice (Lecturer/Researcher)</a> in the <a href="https://me.stonybrook.edu/" target="_blank">Department of Mechanical Engineering</a> at <a href="https://www.stonybrook.edu/" target="_blank">Stony Brook University</a>. Previously, I was an Assistant Professor in the <a href="https://me.sunykorea.ac.kr/me/" target="_blank">Department of Mechanical Engineering</a> at <a href="https://www.sunykorea.ac.kr/en/" target="_blank">SUNY Korea</a>.
 
 <!-- I obtained my PhD from the Department of Mechanical Engineering at Isfahan University of Technology. -->
 
