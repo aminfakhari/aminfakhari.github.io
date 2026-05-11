@@ -1,5 +1,9 @@
-Contributions are welcome! Please add issues and make pull requests. There are no stupid questions. All ideas are welcome. This is a volunteer project. Be excellent to each other.
+Contributions are welcome! 
 
-Fork from master and go from there. This repository is intended to remain a generic, ready-to-fork template that demonstrates the features of academicpages.
+Bug reports and feature requests to the template  should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). To preform a pull request:
 
-If you make a pull request and change code, please make sure there is a closed issue tagged with 'code change' that has some comment linking to either the single commit (if the change was just one commit) or a diff comparing before/after the change (see [issue 21](https://github.com/academicpages/academicpages.github.io/issues/21) for example). This is so that those who have forked this repo and modified it for their purposes can more easily patch bugs and new features.
+1. Clone the repository.
+1. Create a branch off of master and give it a meaningful name (e.g. `my-new-feature`).
+1. Open a pull request on GitHub and describe the feature or fix.
+
+Please remember that this repository is intended to remain an easy to use, generic, and ready-to-fork template that demonstrates the features of Academic Pages, so extremely narrowly foucsed features are likley to be rejected. Futhermore, some mild LLM / Agentic AI checks are in place to ensure that contrubtions are submitted by humans. 
