@@ -7,6 +7,8 @@ author_profile: true
 
 ## Conference Publications
 
+*C10**. Y. Li, A. Fakhari, H. Sadeghian, "Trajectory Optimization for Self-Wrap-Aware Cable-Towed Planar Object Manipulation under Implicit Tension Constraints," 2026 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026 (Under Review).
+
 **C9**. M. Boroji, V. Danesh, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://ieeexplore.ieee.org/document/10802581)," 2024 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024.
 
 **C8**. J. Best and A. Fakhari, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand](https://arxiv.org/abs/2405.18730)," *arXiv*, 2024.
@@ -31,7 +33,7 @@ author_profile: true
 
 ## Journal Publications
 
-**J9**. C. Saldarriaga, A. Fakhari, I. Kao, "Dynamic Response of Redundant Robot Manipulators under Impedance Control with Null-Space Control by Applying Modal Analysis," *IEEE Transactions on Robotics*, 2024, (Under Review).
+**J9**. C. Saldarriaga, A. Fakhari, I. Kao, "Dynamic Response of Redundant Robot Manipulators under Impedance Control with Null-Space Control by Applying Modal Analysis," *IEEE Transactions on Robotics*, 2026, (Accepted for Publication).
 
 **J8**. G. He, A. Fakhari, F. Khan, I. Kao, "[Propagation of Error and Uncertainty in a Computer Assisted Orthopedic Surgical System](https://ieeexplore.ieee.org/document/10474299)," *IEEE Transactions on Instrumentation & Measurement*, vol. 73, pp. 1-15, 2024.
 
