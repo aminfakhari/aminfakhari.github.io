@@ -7,7 +7,7 @@ author_profile: true
 
 ## Conference Publications
 
-*C10**. Y. Li, A. Fakhari, H. Sadeghian, "Trajectory Optimization for Self-Wrap-Aware Cable-Towed Planar Object Manipulation under Implicit Tension Constraints," 2026 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026 (Under Review).
+**C10**. Y. Li, A. Fakhari, H. Sadeghian, "Trajectory Optimization for Self-Wrap-Aware Cable-Towed Planar Object Manipulation under Implicit Tension Constraints," 2026 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2026 (Under Review).
 
 **C9**. M. Boroji, V. Danesh, I. Kao, A. Fakhari, "[Motion Planning for Object Manipulation by Edge-Rolling](https://ieeexplore.ieee.org/document/10802581)," 2024 *IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2024.
 
