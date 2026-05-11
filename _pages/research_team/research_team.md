@@ -1,5 +1,5 @@
 ---
-title: "Research Team"
+title: "Team"
 permalink: /research_team/
 author_profile: true
 ---
