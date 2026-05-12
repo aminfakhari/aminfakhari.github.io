@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-I am an <a href="https://me.stonybrook.edu/people/faculty/Fakhari_Amin.php" target="_blank">Assistant Professor of Practice (Lecturer/Researcher)</a> in the <a href="https://me.stonybrook.edu/" target="_blank">Department of Mechanical Engineering</a> at <a href="https://www.stonybrook.edu/" target="_blank">Stony Brook University</a>. Previously, I was an Assistant Professor in the <a href="https://me.sunykorea.ac.kr/me/" target="_blank">Department of Mechanical Engineering</a> at <a href="https://www.sunykorea.ac.kr/en/" target="_blank">SUNY Korea</a>.
+I am an <a href="https://me.stonybrook.edu/people/faculty/Fakhari_Amin.php" target="_blank">Assistant Professor of Practice</a> in the <a href="https://me.stonybrook.edu/" target="_blank">Department of Mechanical Engineering</a> at <a href="https://www.stonybrook.edu/" target="_blank">Stony Brook University</a>. Previously, I was an Assistant Professor in the <a href="https://me.sunykorea.ac.kr/me/" target="_blank">Department of Mechanical Engineering</a> at <a href="https://www.sunykorea.ac.kr/en/" target="_blank">SUNY Korea</a>.
 
 <!-- I obtained my PhD from the Department of Mechanical Engineering at Isfahan University of Technology. -->
 
-My research interests are in robotics, dynamical systems, control systems, and mechatronics.
+My research interests are in Robotics, Dynamical and Control Systems, and Mechatronics.
 
 <br>
 <br>
