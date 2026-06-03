@@ -12,7 +12,7 @@ I am an <a href="https://me.stonybrook.edu/people/faculty/Fakhari_Amin.php" targ
 
 <!-- I obtained my PhD from the Department of Mechanical Engineering at Isfahan University of Technology. -->
 
-My research interests are in Robotics, Dynamical and Control Systems, and Mechatronics.
+My research interests are in Robotics, Dynamical and Control Systems, Dexterous Manipulation and Grasping, Motion Planning, Feedback Control Systems, Impedance and Force Control, pHRI, Trajectory Optimization, Optimal Control.
 
 <br>
 <br>
