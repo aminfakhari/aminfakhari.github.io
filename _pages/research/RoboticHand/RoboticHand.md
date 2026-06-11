@@ -1,7 +1,7 @@
 ---
-title: "Dexterous Manipulation and Grasping"
-permalink: /research/ManipulationGrasping
-author_profile: false
+title: "Robotic Hand Design"
+permalink: /research/RoboticHand
+author_profile: true
 ---
 
 ## Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand
