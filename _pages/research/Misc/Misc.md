@@ -1,3 +1,9 @@
+---
+title: ""
+permalink: /research/Misc
+author_profile: true
+---
+
 ## LinBot – Design, Analysis, and Field Test of a Novel Power Transmission Lines Inspection Robot
 In this research, design, analysis, and field test of an innovative inspection robot (which is named LinBot) for highvoltage power transmission lines are investigated. This robot is utilized for moving on ground wires of transmission lines with the aim of inspection and fault detection of phase lines. Thanks to active and passive mechanisms designed in this robot, it is able to surmount all different ground wire obstacles including warning balls, clamps, and tower tips, and this is a unique capability of this robot among all other line inspection robots. The active mechanisms comprise four vertical rollers attached to the robot chassis by four arms, three horizontal rollers, and six mechanisms to control the vertical position of these horizontal rollers. Moreover, four sets of rotational springs and dampers are located in the joints of vertical rollers arms as passive mechanisms. To validate stability and feasibility of the robot in obstacle surmount and achieve the best selection for the robot required motors, a simulation study in MSC ADAMS software is conducted. The dynamical behavior of the robot including the motors torques is presented based on the simulation results. Furthermore, effect of wind on the stability of the robot is studied. Finally, practical performance of robot prototype manufactured in a laboratory is evaluated in the real field experimentally.
 
