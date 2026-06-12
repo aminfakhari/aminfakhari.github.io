@@ -6,16 +6,16 @@ author_profile: true
 
 ## Stony Brook University
 **Graduate Courses**:
-* [MEC 529: Introduction to Robotics](/teaching/MEC529) **\|** Fall 2025
-* [MEC 549: Robot Dynamics and Control](/teaching/MEC549) **\|** Spring 2026
-* [MEC 560: Advanced Control Systems](/teaching/MEC560) **\|** Spring 2026
-* [MEC 510: Object-Oriented Programming](/teaching/MEC510) **\|** Spring 2025
-* [MEC 450/550: Mechatronics](/teaching/MEC450_550) **\|** Fall 2024
+* <a href="/teaching/MEC529" target="_blank" rel="noopener noreferrer">MEC 529: Introduction to Robotics</a> **\|** Fall 2025
+* <a href="/teaching/MEC549" target="_blank" rel="noopener noreferrer">MEC 549: Robot Dynamics and Control</a> **\|** Spring 2026
+* <a href="/teaching/MEC560" target="_blank" rel="noopener noreferrer">MEC 560: Advanced Control Systems</a> **\|** Spring 2026
+* <a href="/teaching/MEC510" target="_blank" rel="noopener noreferrer">MEC 510: Object-Oriented Programming</a> **\|** Spring 2025
+* <a href="/teaching/MEC450_550" target="_blank" rel="noopener noreferrer">MEC 450/550: Mechatronics</a> **\|** Fall 2024
 
 **Undergraduate Courses**:
-* [MEC 260: Engineering Statics](/teaching/MEC260) **\|** Fall 2025
-* [MEC 220: Practical Electronics](/teaching/MEC220) **\|** Spring 2026
-* [MEC 411: Control System Analysis and Design](/teaching/MEC411) **\|** Fall 2023
+* <a href="/teaching/MEC260" target="_blank" rel="noopener noreferrer">MEC 260: Engineering Statics</a> **\|** Fall 2025
+* <a href="/teaching/MEC220" target="_blank" rel="noopener noreferrer">MEC 220: Practical Electronics</a> **\|** Spring 2026
+* <a href="/teaching/MEC411" target="_blank" rel="noopener noreferrer">MEC 411: Control System Analysis and Design</a> **\|** Fall 2023
 
 
 <!---
