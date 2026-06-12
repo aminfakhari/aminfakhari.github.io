@@ -13,15 +13,15 @@ Soft tactile sensors are essential for mimicking human touch, converting physica
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.png" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.png" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture5.png" width=auto height=auto alt=""></td>
   </tr>
 </table>
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
     <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture2.jpg" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.png" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.jpg" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture1.png" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture3.jpg" width=auto height=auto alt=""></td>
   </tr>
 </table>
 
