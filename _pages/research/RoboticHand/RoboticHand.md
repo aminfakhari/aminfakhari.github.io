@@ -7,7 +7,7 @@ author_profile: true
 ## Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand
 Most robotic hands and grippers rely on actuators with large gearboxes and force sensors for controlling gripping force. However, this might not be ideal for tasks which require the robot to interact with an unstructured and/or unknown environment. We proposed a novel quasi-direct-drive (QDD) two-fingered robotic hand with variable impedance control in the joint space and Cartesian space. Variable impedance control allows the hand to perform dexterous manipulation tasks while being safe during human-robot interaction. The quasi-direct-drive actuators enable the fingers to handle contact with unstructured environment without the need for complicated tactile or force sensors. The hand demonstrates grasping with force-closure and form-closure, stable grasps in response to disturbances, tasks exploiting contact with the environment, simple in-hand manipulation, and a light touch for handling fragile objects.
 
-**MS Student: [Jay Best](https://www.linkedin.com/in/jay--best/)**
+**MS Student: <a href="https://www.linkedin.com/in/jay--best/" target="_blank" rel="noopener noreferrer">Jay Best</a>**
 
 <table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
   <tr>
@@ -28,9 +28,9 @@ Most robotic hands and grippers rely on actuators with large gearboxes and force
 </table>
 
 **Thesis:**
-- Jay Best, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand](https://arxiv.org/abs/2308.10409)," *Department of Mechanical Engineering, Stony Brook University*, 2023.
+- Jay Best, "<a href="https://arxiv.org/abs/2308.10409" target="_blank" rel="noopener noreferrer">Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robot Hand</a>," *Department of Mechanical Engineering, Stony Brook University*, 2023.
 
 **Publication:**
-- J. Best and A. Fakhari, "[Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand](https://arxiv.org/abs/2405.18730)," *arXiv*, 2024.
+- J. Best and A. Fakhari, "<a href="https://arxiv.org/abs/2405.18730" target="_blank" rel="noopener noreferrer">Development of a Novel Impedance-Controlled Quasi-Direct-Drive Robotic Hand</a>," *arXiv*, 2024.
 
 <hr>

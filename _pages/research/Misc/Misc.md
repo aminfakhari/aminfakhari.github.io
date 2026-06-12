@@ -18,9 +18,9 @@ In this research, design, analysis, and field test of an innovative inspection r
 </center>
 
 **Publications:**
-- A. Fakhari and A. Mostashfi, "[LinBot - Design, Analysis, and Field Test of a Novel Power Transmission Lines Inspection Robot](https://ieeexplore.ieee.org/document/9071839)," *2019 7th International Conference on Robotics and Mechatronics (ICRoM)*, 2019, pp. 132-137, doi: 10.1109/ICRoM48714.2019.9071839.
-- A. Mostashfi, A. Fakhari, and M.A. Badri, "[Simulation and Experimental Validation of a New Cable Inspection Robot for High Voltage Lines](http://sjme.journals.sharif.edu/article_6309.html?lang=en)," *Mechanical Engineering Sharif*, vol. 31-3, no. 2, pp. 25-32, 2015.
-- A. Mostashfi, A. Fakhari, and M.A. Badri, "[A Novel Design of Inspection Robot for High-Voltage Power Lines](https://www.emerald.com/insight/content/doi/10.1108/IR-08-2013-386/full/html)," *Industrial Robot: An International Journal*, vol. 41, no. 2, pages 166–175, 2014.
+- A. Fakhari and A. Mostashfi, "<a href="https://ieeexplore.ieee.org/document/9071839" target="_blank" rel="noopener noreferrer">LinBot - Design, Analysis, and Field Test of a Novel Power Transmission Lines Inspection Robot</a>," *2019 7th International Conference on Robotics and Mechatronics (ICRoM)*, 2019, pp. 132-137, doi: 10.1109/ICRoM48714.2019.9071839.
+- A. Mostashfi, A. Fakhari, and M.A. Badri, "<a href="http://sjme.journals.sharif.edu/article_6309.html?lang=en" target="_blank" rel="noopener noreferrer">Simulation and Experimental Validation of a New Cable Inspection Robot for High Voltage Lines</a>," *Mechanical Engineering Sharif*, vol. 31-3, no. 2, pp. 25-32, 2015.
+- A. Mostashfi, A. Fakhari, and M.A. Badri, "<a href="https://www.emerald.com/insight/content/doi/10.1108/IR-08-2013-386/full/html" target="_blank" rel="noopener noreferrer">A Novel Design of Inspection Robot for High-Voltage Power Lines</a>," *Industrial Robot: An International Journal*, vol. 41, no. 2, pages 166–175, 2014.
 - A. Mostashfi, A. Fakhari, M. Sakkak, M. Sadeghi, and M.A. Badri, "Inspection Robot for High-Voltage Power Lines," IR Registration No. 81449, Tehran, Iran, Dec. 18, 2013.
 <hr>
 
@@ -33,7 +33,7 @@ Most of the essential parameters of human walking can be captured with a seven-l
 
 
 **Publications:**
-- A. Fattah and A. Fakhari, "[Trajectory Planning of Walking with Different Step Lengths of a Seven-Link Biped Robot](https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2010/44106/1361/356930)," *ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE)*, Montreal, Quebec, Canada, Aug. 2010. 
-- A. Fattah, A. Fakhari, and S. Behbahani, "[Dynamics Modeling and Trajectory Planning of a Seven-Link Planar Biped Robot](https://www.researchgate.net/publication/260772830_Dynamics_Modeling_and_Trajectory_Planning_of_a_Seven-Link_Planar_Biped_Robot)," *17th Annual (International) Conference on Mechanical Engineering (ISME)*, Tehran, Iran, May 2009.
+- A. Fattah and A. Fakhari, "<a href="https://asmedigitalcollection.asme.org/IDETC-CIE/proceedings-abstract/IDETC-CIE2010/44106/1361/356930" target="_blank" rel="noopener noreferrer">Trajectory Planning of Walking with Different Step Lengths of a Seven-Link Biped Robot</a>," *ASME International Design Engineering Technical Conferences & Computers and Information in Engineering Conference (IDETC/CIE)*, Montreal, Quebec, Canada, Aug. 2010. 
+- A. Fattah, A. Fakhari, and S. Behbahani, "<a href="https://www.researchgate.net/publication/260772830_Dynamics_Modeling_and_Trajectory_Planning_of_a_Seven-Link_Planar_Biped_Robot" target="_blank" rel="noopener noreferrer">Dynamics Modeling and Trajectory Planning of a Seven-Link Planar Biped Robot</a>," *17th Annual (International) Conference on Mechanical Engineering (ISME)*, Tehran, Iran, May 2009.
 
 <hr>
