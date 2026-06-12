@@ -9,19 +9,49 @@ Soft tactile sensors are essential for mimicking human touch, converting physica
 
 **MS Student: [Martin Chan](https://www.linkedin.com/in/martin-chan-a1a625239/)**
 
+<style>
+  .sensor-image-table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: fixed;
+    margin: 0 0 1.25rem 0;
+  }
 
-<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  .sensor-image-table td {
+    padding: 0.35rem;
+    text-align: center;
+    vertical-align: middle;
+  }
+
+  .sensor-image-table img {
+    width: 100%;
+    height: 260px;
+    object-fit: contain;
+    display: block;
+    margin: 0 auto;
+    background: #f7f7f7;
+  }
+
+  @media (max-width: 768px) {
+    .sensor-image-table img {
+      height: 180px;
+    }
+  }
+</style>
+
+
+<table class="sensor-image-table" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.png" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture5.png" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.png" alt="Sensor setup image 1"></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture5.png" alt="Sensor setup image 2"></td>
   </tr>
 </table>
 
-<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+<table class="sensor-image-table" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture2.jpg" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture1.png" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture3.jpg" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture2.jpg" alt="Sensor result image 1"></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture1.png" alt="Sensor result image 2"></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture3.jpg" alt="Sensor result image 3"></td>
   </tr>
 </table>
 
