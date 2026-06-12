@@ -4,10 +4,12 @@ permalink: /research/
 author_profile: true
 ---
 
-[Dexterous Manipulation and Grasping Research](/research/ManipulationGrasping)
+## Research Areas
 
-[Robotic Hand Design](/research/RoboticHand)
+<a href="/research/ManipulationGrasping" target="_blank" rel="noopener noreferrer">Dexterous Manipulation and Grasping</a>
 
-[Force Sensor Design](/research/Sensor)
+<a href="/research/RoboticHand" target="_blank" rel="noopener noreferrer">Robotic Hand Design</a>
 
-[Miscellaneous](/research/Misc)
+<a href="/research/Sensor" target="_blank" rel="noopener noreferrer">Force Sensor Design</a>
+
+<a href="/research/Misc" target="_blank" rel="noopener noreferrer">Other Projects</a>
