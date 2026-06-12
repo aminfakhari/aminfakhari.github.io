@@ -5,7 +5,10 @@ author_profile: true
 ---
 
 [Dexterous Manipulation and Grasping Research](/research/ManipulationGrasping)
+
 [Robotic Hand Design](/research/RoboticHand)
+
+[Force Sensor Design](/research/Sensor)
 
 
 ## Motion Planning for Object Manipulation by Edge-Rolling
