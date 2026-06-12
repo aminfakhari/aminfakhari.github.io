@@ -9,6 +9,23 @@ Soft tactile sensors are essential for mimicking human touch, converting physica
 
 **MS Student: [Martin Chan](https://www.linkedin.com/in/martin-chan-a1a625239/)**
 
+
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.png" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.png" width=auto height=auto alt=""></td>
+  </tr>
+</table>
+
+<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+  <tr>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture2.jpg" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.png" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/Sensor/Picture4.jpg" width=auto height=auto alt=""></td>
+  </tr>
+</table>
+
+
 **Thesis:**
 - Martin Chan, "[Development of Soft Magnetic Sensors for Tri-Axial Tactile Sensing of Normal and Shear Forces and Contact Localization](https://aminfakhari.github.io/_pages/research/Sensor/MS_Thesis_SensorDesign_Martin_May2026.pdf)," *Department of Mechanical Engineering, Stony Brook University*, May 2026.
 
