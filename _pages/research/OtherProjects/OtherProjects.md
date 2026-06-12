@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /research/Misc
+permalink: /research/OtherProjects
 author_profile: true
 ---
 
