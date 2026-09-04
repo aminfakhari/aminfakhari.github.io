@@ -13,7 +13,7 @@ author_profile: true
 
 ### Undergraduate Students
 - <a href="https://www.linkedin.com/in/leolinsbu/" target="_blank" rel="noopener noreferrer">Leo Lin</a> (2025 - *present*)
-- <a href="linkedin.com/in/carl-andre-montoya-a9639b2b1/" target="_blank" rel="noopener noreferrer">Carl Andre Montoya</a> (2025 - *present*)
+- <a href="https://www.linkedin.com/in/carl-andre-montoya-a9639b2b1/" target="_blank" rel="noopener noreferrer">Carl Andre Montoya</a> (2025 - *present*)
 
 
 

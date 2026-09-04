@@ -150,6 +150,11 @@ exclude:
   - package.json
   - tmp
   - vendor
+  - markdown_generator
+  - talkmap
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - talkmap.py
 keep_files:
   - .git
   - .svn

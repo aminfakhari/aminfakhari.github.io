@@ -24,7 +24,7 @@ feature_row3:
     url: "/research/Sensor"
     btn_label: "Learn More"
 feature_row4:
-  - image_path: "https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/OtherProjects/LinBot/LinBot.jpg"
+  - image_path: "https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/OtherProjects/Biped/Biped_Robot.gif"
     alt: "LinBot inspection robot climbing a high-voltage power transmission line against a blue sky"
     title: "Other Projects"
     excerpt: "Additional robotics projects, including (i) LinBot, a novel inspection robot designed to autonomously traverse and surmount obstacles on high-voltage power transmission lines using a combination of active and passive roller mechanisms, validated through simulation and real-world field-testing, and (ii) trajectory planning for a seven-link biped robot, developing methods to generate stable, adaptable walking gaits with varying step lengths across different terrain, verified through simulation and experiments."
@@ -32,7 +32,7 @@ feature_row4:
     btn_label: "Learn More"
 ---
 
-My research combines mechanism design, control theory, and machine learning to build robots that manipulate, sense, and interact with the physical world safely and dexterously. Below are four core areas I work in — click through on any of them for details, publications, and demos.
+<!-- My research combines mechanism design, control theory, and machine learning to build robots that manipulate, sense, and interact with the physical world safely and dexterously. Below are four core areas I work in — click through on any of them for details, publications, and demos. -->
 
 {% include feature_row id="feature_row1" type="left" %}
 
