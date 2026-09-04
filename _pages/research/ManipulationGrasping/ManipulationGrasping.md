@@ -4,16 +4,20 @@ permalink: /research/ManipulationGrasping
 author_profile: true
 ---
 
+[← Back to Research Areas](/research/)
+
+{% include research-image-table.html %}
+
 ## Motion Planning for Object Manipulation by Edge-Rolling
 A common way to manipulate heavy objects is to maintain at least one point of the object in contact with the environment during the manipulation. When the object has a cylindrical shape or, in general, a curved edge, not only sliding and pivoting motions but also rolling the object along the edge can effectively satisfy this condition. Edge-rolling offers several advantages in terms of efficiency and maneuverability. This paper aims to develop a novel approach for approximating the prehensile edge-rolling motion on any path by a sequence of constant screw displacements, leveraging the principles of screw theory. Based on this approach, we proposed an algorithmic method for task-space-based path generation of object manipulation between two given configurations using a sequence of rolling and pivoting motions. The method is based on an optimization algorithm that takes into account the joint limitations of the robot. To validate our approach, we conducted experiments to manipulate a cylinder along linear and curved paths using the Franka Emika Panda manipulator.
 
 **Collaborators: <a href="https://www.linkedin.com/in/maede-boroji-558ba51a5/" target="_blank" rel="noopener noreferrer">Maede Boroji</a>, <a href="https://www.linkedin.com/in/vahid-danesh/" target="_blank" rel="noopener noreferrer">Vahid Danesh</a>**
 
-<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+<table class="research-image-table" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/EdgeRolling.png" width=480 height=360 alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/EdgeRolling_BackAndForthPath.gif" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/EdgeRolling_FullCirclePath.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/EdgeRolling.png" alt="Diagram of a Franka Emika Panda arm rolling and pivoting a cylindrical object along a path using screw displacements"></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/EdgeRolling_BackAndForthPath.gif" alt="Franka Emika Panda robot rolling a cylinder back and forth along a linear path"></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/EdgeRolling_FullCirclePath.gif" alt="Franka Emika Panda robot rolling a cylinder along a full circular path"></td>
 	<!---
 	<td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/EdgeRolling_HalfCirclePath.gif" width=auto height=auto alt=""></td>
 	--->
@@ -30,19 +34,19 @@ Manipulation of objects by exploiting their contact with the environment can enh
 
 **Collaborators: <a href="https://me.stonybrook.edu/people/faculty/Chakraborty_Nilanjan.php" target="_blank" rel="noopener noreferrer">Dr. Nilanjan Chakraborty</a>, <a href="https://www.linkedin.com/in/adityapatankar/" target="_blank" rel="noopener noreferrer">Aditya Patankar</a>**
 
-<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+<table class="research-image-table" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Manipulation_Pivoting.gif" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Cuboid.gif" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Cylinder.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Manipulation_Pivoting.gif" alt="Robot pivoting a heavy object on the ground while keeping some contact points fixed"></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Cuboid.gif" alt="Simulated pivoting motion plan for manipulating a cuboid object"></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Cylinder.gif" alt="Simulated pivoting motion plan for manipulating a cylindrical object"></td>
   </tr>
 </table>
 
-<table style="height:auto; width:auto;" cellspacing="0" cellpadding="0">
+<table class="research-image-table" cellspacing="0" cellpadding="0">
   <tr>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Panda_Cuboid.gif" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Panda_Cylinder.gif" width=auto height=auto alt=""></td>
-    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Animation_G1.gif" width=auto height=auto alt=""></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Panda_Cuboid.gif" alt="Franka Emika Panda robot executing a pivoting motion plan on a cuboid object"></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Panda_Cylinder.gif" alt="Simulated Franka Emika Panda robot executing a pivoting motion plan on a cylindrical object"></td>
+    <td><img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Animation_G1.gif" alt="Animation of a generated pivoting motion plan for object manipulation"></td>
   </tr>
 </table>
 
@@ -58,9 +62,7 @@ Evaluating a grasp generated by a set of hand-object contact locations is a key 
 
 **Collaborators: <a href="https://me.stonybrook.edu/people/faculty/Chakraborty_Nilanjan.php" target="_blank" rel="noopener noreferrer">Dr. Nilanjan Chakraborty</a>, <a href="https://www.linkedin.com/in/adityapatankar/" target="_blank" rel="noopener noreferrer">Aditya Patankar</a>**
 
-<center>
-<img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Examples.png" style="width: 50%; height: 50%;" alt="">
-</center>
+<img class="research-image-single" src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/Examples.png" alt="Everyday manipulation tasks — sliding a drawer, turning a doorknob, tipping a box, opening a door, driving a screw, and uncorking a bottle — modeled as motion along a screw axis S">
 
 **Publication:**
 - A. Fakhari, A. Patankar, J. Xie and N. Chakraborty, "<a href="https://ieeexplore.ieee.org/document/9636197" target="_blank" rel="noopener noreferrer">Computing a Task-Dependent Grasp Metric Using Second-Order Cone Programs</a>," *2021 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*, 2021, pp. 4009-4016, doi: 10.1109/IROS51168.2021.9636197.
@@ -73,12 +75,10 @@ Various models have been presented for pressure distribution in the contact inte
 
 **Collaborators: <a href="https://me.stonybrook.edu/people/faculty/Kao_Imin.php" target="_blank" rel="noopener noreferrer">Dr. Imin Kao</a>, <a href="https://keshmiri.iut.ac.ir/" target="_blank" rel="noopener noreferrer">Dr. Mehdi Keshmiri</a>**
 
-<center>
-<img src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/PressureDistributionSVG.svg" style="width: 50%; height: 50%;" alt="">
-</center>
+<img class="research-image-single" src="https://raw.githubusercontent.com/aminfakhari/aminfakhari.github.io/master/_pages/research/ManipulationGrasping/PressureDistributionSVG.svg" alt="Illustration of the asymmetric pressure distribution model at a soft-finger contact interface under normal and tangential loading">
 
 **Publication:**
-- A. Fakhari, M. Keshmiri, and I. Kao, "<a href="https://link.springer.com/article/10.1007/s10846-015-0267-2" target="_blank" rel="noopener noreferrer">Development of Realistic Pressure Distribution and Friction Limit Surface for Soft-Finger Contact Interface of Robotic Hands</a>," *Journal of Intelligent and Robotic Systems*, vol. 82, iss. 1, pp. 39-50, 2016.
+- A. Fakhari, M. Keshmiri, and I. Kao, "<a href="https://link.springer.com/article/10.1007/s10846-015-0267-2" target="_blank" rel="noopener noreferrer">Development of Realistic Pressure Distribution and Friction Limit Surface for Soft-Finger Contact Interface of Robotic Hands</a>," *Journal of Intelligent and Robotic Systems*, vol. 82, iss. 1, pp. 39-50, 2016.
 
 
 <hr>
