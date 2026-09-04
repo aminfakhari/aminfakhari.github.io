@@ -12,8 +12,10 @@ author_profile: true
 - <a href="https://www.linkedin.com/in/vahid-danesh/" target="_blank" rel="noopener noreferrer">Vahid Danesh</a> (2023 - *present*)
 
 ### Undergraduate Students
-- Leo Lin (2025 - *present*)
-- Carl Andre Montoya (2025 - *present*)
+- <a href="https://www.linkedin.com/in/leolinsbu/" target="_blank" rel="noopener noreferrer">Leo Lin</a> (2025 - *present*)
+- <a href="linkedin.com/in/carl-andre-montoya-a9639b2b1/" target="_blank" rel="noopener noreferrer">Carl Andre Montoya</a> (2025 - *present*)
+
+
 
 ### Senior Design Undergraduate Students (Fall 2026 - Spring 2027)
 - Leo Lin
